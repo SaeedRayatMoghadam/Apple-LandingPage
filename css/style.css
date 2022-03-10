@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(0, 0, 0, .97);
+    background-color: rgba(0, 0, 0, .98);
 }
 
 .nav-link {
@@ -20,4 +20,12 @@ body {
 
 .navbar-brand {
     padding-right: 1.2rem;
+}
+
+.w-100px {
+    width: 100px !important;
+}
+
+.bg-gray {
+    background-color: rgba(17, 16, 16, 0.5);
 }
